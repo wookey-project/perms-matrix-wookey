@@ -1,0 +1,6 @@
+Kconfig
+Kconfig.gen
+Makefile
+Makefile.objs
+Makefile.objs.gen
+*/
