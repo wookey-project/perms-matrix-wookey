@@ -1,3 +1,4 @@
+.*.cmd
 Kconfig
 Kconfig.gen
 Makefile
